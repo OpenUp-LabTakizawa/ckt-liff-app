@@ -18,6 +18,9 @@
   <a aria-label="react" href="https://react.dev/">
     <img src="https://img.shields.io/badge/-react-61DAFB.svg?logo=react&style=for-the-badge&labelColor=000000" alt="react">
   </a>
+  <a aria-label="line" href="https://line.me/">
+    <img src="https://img.shields.io/badge/-line-00C300.svg?logo=line&style=for-the-badge&labelColor=000000" alt="line">
+  </a>
   <a aria-label="typescript" href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=for-the-badge&labelColor=000000" alt="typescript">
   </a>
