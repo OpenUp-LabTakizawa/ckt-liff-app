@@ -89,6 +89,7 @@ This software uses the following open source packages:
 - [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org/)
 - [React](https://react.dev/)
+- [LIFF v2 API](https://developers.line.biz/en/reference/liff/)
 
 ## 📄 License
 
