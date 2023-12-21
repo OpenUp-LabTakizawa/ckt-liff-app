@@ -51,13 +51,16 @@ $ git clone https://github.com/OpenUp-LabTakizawa/ckt-liff-app
 $ cd ckt-liff-app && bun i
 
 # Develop the app
-$ bun --bun run dev
+$ bun dev
+
+# Test the app
+$ bun test
 
 # Build the app
-$ bun --bun run build
+$ bun run build
 
 # Start the app
-$ bun --bun run start
+$ bun start
 
 # Format the app
 $ bunx @biomejs/biome check --apply-unsafe **
